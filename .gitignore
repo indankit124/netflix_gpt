@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Production build output
+dist/
+
+# OS & editor junk
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
